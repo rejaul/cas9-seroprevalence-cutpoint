@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Anti-Cas9 seroprevalence: a screening-test reconciliation"
+authors:
+  - family-names: Karim
+    given-names: Rejaul
+    affiliation: "Campbellsville University, Campbellsville, Kentucky, USA"
+version: 1.0.0
+date-released: 2026-11-10
+license: MIT
+repository-code: "https://github.com/rejaul/cas9-seroprevalence-cutpoint"
+url: "https://github.com/rejaul/cas9-seroprevalence-cutpoint"

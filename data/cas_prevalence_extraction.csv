@@ -1,0 +1,23 @@
+study,year,doi,antigen,population,assay,cutpoint_rule,N,positives,pct,measure,confidence,notes
+Charlesworth (preprint),2018,10.1101/243345,SaCas9,US cord blood,immunoblot,visual band @1:10,22.0,19.0,86.0,antibody,verified,19/22; same donors probed for SpCas9 too
+Charlesworth (preprint),2018,10.1101/243345,SpCas9,US cord blood,immunoblot,visual band @1:10,22.0,16.0,73.0,antibody,verified,16/22
+Charlesworth (preprint),2018,10.1101/243345,SaCas9,US adult,immunoblot,visual band @1:10,12.0,8.0,67.0,antibody,verified,8/12
+Charlesworth (preprint),2018,10.1101/243345,SpCas9,US adult,immunoblot,visual band @1:10,12.0,5.0,42.0,antibody,verified,5/12
+Charlesworth (publ.),2019,10.1038/s41591-018-0326-x,SaCas9,US adult,ELISA,albumin mean+3SD (1:50),125.0,98.0,78.0,antibody,verified,98/125 derived from reported 78%; SAME rule as Simhadri 2026
+Charlesworth (publ.),2019,10.1038/s41591-018-0326-x,SpCas9,US adult,ELISA,albumin mean+3SD (1:50),125.0,72.0,58.0,antibody,verified,72/125 from 58%
+Simhadri 2018 (conv. cut),2018,10.1016/j.omtm.2018.06.006,SaCas9,US adult,ELISA (tiered),5% FPR screen + confirm,200.0,10.0,5.0,antibody,verified,conventional drug-naive cutpoint
+Simhadri 2018 (imm-inhib cut),2018,10.1016/j.omtm.2018.06.006,SaCas9,US adult,ELISA (tiered),immune-inhibition cut + confirm,200.0,20.0,10.0,antibody,verified,"SAME 200 donors, different rule - dependent"
+Simhadri 2018 (conv. cut),2018,10.1016/j.omtm.2018.06.006,SpCas9,US adult,ELISA (tiered),5% FPR screen + confirm,200.0,3.0,1.5,antibody,verified,3/200
+Simhadri 2018 (imm-inhib cut),2018,10.1016/j.omtm.2018.06.006,SpCas9,US adult,ELISA (tiered),immune-inhibition cut + confirm,200.0,5.0,2.5,antibody,verified,5/200
+Shen 2022,2022,10.1089/crispr.2021.0142,SaCas9,Chinese adult,ELISA,not in abstract,,,4.8,antibody,pending,N from PDF; T cells 70%
+Simhadri 2026,2026,10.1038/s41467-026-75015-7,SaCas9,US adult,ELISA (single-tier),HSA control mean+3SD,43.0,27.0,62.8,antibody,verified,27/43
+Simhadri 2026,2026,10.1038/s41467-026-75015-7,AsCas12a,US adult,ELISA (single-tier),HSA control mean+3SD,43.0,26.0,60.5,antibody,verified,26/43
+Simhadri 2026,2026,10.1038/s41467-026-75015-7,CasPhi,US adult,ELISA (single-tier),HSA control mean+3SD,43.0,31.0,72.1,antibody,verified,31/43
+Charlesworth (preprint),2018,10.1101/243345,SaCas9,US adult,IFN-g ELISpot (direct),assay-specific,,,46.0,tcell,pending,46% of donors; N from PDF
+Charlesworth (publ.),2019,10.1038/s41591-018-0326-x,SaCas9,US adult,T cell (expanded),ELISpot/ICS/CD137,18.0,14.0,78.0,tcell,verified,14/18 (78%); SpCas9 T cell 12/18 (67%)
+Wagner 2018,2018,10.1038/s41591-018-0204-6,SpCas9,adult,T cell,continuous (no positivity cutoff),48.0,,,tcell,verified,"n=48; SpCas9-reactive effector response ubiquitous (~100%), Tregs also present; no dichotomous %"
+Shen 2022,2022,10.1089/crispr.2021.0142,SaCas9,Chinese adult,T cell,assay-specific,,,70.0,tcell,pending,70%
+Simhadri 2026,2026,10.1038/s41467-026-75015-7,SaCas9,US adult,IFN-g ELISpot (amplified),SI>1.9,43.0,39.0,90.7,tcell,verified,39/43; 4d stim+IL-2+restim
+Simhadri 2026,2026,10.1038/s41467-026-75015-7,AsCas12a,US adult,IFN-g ELISpot (amplified),SI>1.9,43.0,42.0,97.7,tcell,verified,42/43
+Simhadri 2026,2026,10.1038/s41467-026-75015-7,CasPhi,US adult,IFN-g ELISpot (amplified),SI>1.9,43.0,31.0,72.1,tcell,verified,31/43
+Tang 2022 (Cas13d),2022,10.1038/s41591-022-01848-6,RfxCas13d,adult,ELISA + T cell,most donors,,,,both,pending,different ortholog; sensitivity/extension row
