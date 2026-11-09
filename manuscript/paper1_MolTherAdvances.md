@@ -2,10 +2,11 @@
 
 *Formatted for Molecular Therapy Advances (formerly Molecular Therapy — Methods & Clinical Development), Research Article. Author and affiliation lines are placeholders for the submitting team.*
 
-**Author One,¹ Author Two,¹ Corresponding Author¹\***
+**Rejaul Karim¹²\***
 
-¹ Affiliation, City, Country.
-\* Correspondence: email@institution.edu
+¹ Campbellsville University, Campbellsville, Kentucky, USA
+² Independent Researcher
+\* Correspondence: karimrej@msu.edu
 
 ---
 
@@ -87,11 +88,11 @@ The extraction table with per-donor provenance, the per-donor optical-density da
 
 ## Acknowledgments
 
-To be completed.
+The author thanks the investigators whose openly deposited source data made this reanalysis possible.
 
 ## Author contributions
 
-Conceptualization, [initials]; methodology, [initials]; formal analysis, [initials]; data curation, [initials]; writing – original draft, [initials]; writing – review and editing, all authors.
+R.K. conceived the study, performed the analysis, curated the data, and wrote the manuscript.
 
 ## Declaration of interests
 
